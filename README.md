@@ -4,11 +4,13 @@
 
 ### Subtitulo nivel 3
 
-ponemos la descripción
+ponemos la *descripción* sencilla
 
 ampliamos mi descripcion
 
-``` bash
+```
+
+
 ls -ls
 ```
 
