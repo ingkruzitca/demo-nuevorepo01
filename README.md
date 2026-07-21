@@ -8,8 +8,8 @@ ponemos la descripción
 
 ampliamos mi descripcion
 
-```java
-String prueba;
+``` bash
+ls -ls
 ```
 
 
